@@ -1,0 +1,103 @@
+body{
+	color: black;
+	font: 14px Tahoma, sans-serif;
+	background-color: #E5FFFC;
+	
+	margin: 0;
+}
+div.cap{
+	background-color: #F5FFE8;
+	height:100px;
+}
+img{
+	height: 100px;
+	width: 150px:
+	
+}
+div.site_heading{
+	color: #FF8928;
+	font: 36px 'Segoe print';
+	text-align: center;
+	
+	
+	
+}
+div.quote{
+	color: #994918;
+	margin-right: 50px;
+	text-align: right;
+	font: 18px 'Monotype Corsiva'
+}
+span.important_block{
+	width: 20%;
+	height: 250px;
+	margin-top:0px;
+	float: left;
+	background-color: #A3A3FF;
+}
+div.element{
+	width: 60%;
+	height: 30px;
+	margin-top: 1%;
+	margin-bottom : 0px;
+	margin-left :20%;
+	border: 1px solid black;
+	text-align: center;
+	background-color: #FFECC6;
+	padding-top :3px;
+	padding-bottom : 3px;
+}
+
+
+#wrapper{
+	width: 750px;
+	
+	
+	margin-left: 20%;
+	
+	color: black;
+	border: 10px black;
+	background-color: #E0FFDB;
+	font:14px 'Courier new';
+	
+	
+}
+#container{
+	width: 750px;
+	height:600px;
+}
+#game_box{
+	width:640px;
+	height:640px;
+
+}
+
+
+p{
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h1{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+
+
+ul{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#table{
+	margin-right: 175px;
+	text-align: right;
+}
+
+li{
+	margin-bottom:5px;
+	
+}
